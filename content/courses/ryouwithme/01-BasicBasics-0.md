@@ -1,5 +1,5 @@
 ---
-date: "2019-05-05T00:00:00+01:00"
+date: "2024-09-05T00:00:00+07:00"
 aliases: ["/courses/ryouwithme/basicbasics",
           "/courses/ryouwithme/unit1"]
 draft: false
